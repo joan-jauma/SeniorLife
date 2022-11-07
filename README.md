@@ -1,5 +1,5 @@
 
-Som l'empresa Connecta, en aquest repositori podeu seguir el progres del nou projecte que estem desenvolupant, SeniorLife.
+Som l'empresa Connecta, en aquest repositori podeu seguir el progrés del nou projecte que estem desenvolupant, SeniorLife.
 
 Els integrant de l'equip encarregats de realitzar el projecte són:
   - Jordi Brota: 1563359
