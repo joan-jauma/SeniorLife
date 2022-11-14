@@ -19,11 +19,13 @@ Satkeholders: Gent Gran i Familiars
 Identificació: 003
 Requisit: “Això també inclou que l'aplicació estigui preparada per a l'ús de persones amb diversitat funcional pròpia de gent gran, com a referència 
   s'hauria de prendre les indicacions del WCAG per a dispositius mòbils.” - Carla Qurban, Directora Executiva
-Descripció: L’aplicació ha de seguir els estàndards de disseny indicats per WCAG (Directrius d'Accessibilitat de Contingut del Web) amb l’objectiu de 
-  ser accessible per a tots els potencials usuaris.
-Tipus: Requisit No Funcional: Restriccions de disseny - Acompliment d'Estàndards.
-Satkeholders: Usuaris 
+          “També crec que és important que sigui accessible per a persones amb algun tipus de discapacitat visual, per això l'aplicació hauria de
+  complir com a mínim amb les indicacions del W3C.” - Alejandra Popa, enginyera en informàtica i CTO
 
+Descripció: L’aplicació ha de seguir els estàndards de disseny indicats per WCAG (Directrius d'Accessibilitat de Contingut del Web) amb l’objectiu 
+  de ser accessible per a tots els usuaris. Per tant la interfície seguirà les indicacions W3C.
+Tipus: Requisit No Funcional: Restriccions de disseny - Acompliment d'Estàndards.
+Satkeholders: Usuaris i Enginyers Informàtics (i tècnics)
 
 
 
@@ -43,6 +45,18 @@ Requisits funcionals:
   
 Problema 3
 
+Cas 1
+Requisits:
+  A. Per poder portar els comptes, m'interessa poder consultar estadístiques sobre el temps d'ús de l'aplicació per cada tipus d'usuari, les funcionalitats 
+     més usades i la interacció amb els anuncis.
+  B. No m'agradaria que contingui publicitat, ja que és una aplicació seriosa i la publicitat et distreu de l'ús principal de l'aplicació.
 
+Stakeholders:
+  A. Director Financer
+  B. Familiar
+
+Raonament: Hi ha dos perfils involucrats que divergeixen respecte la relació entre la publicitat i l’aplicació. 
+  Pel que fa al finançament, en aquest cas del CFO (Eduardo Gasch), es té present l’existència de publicitat a l’aplicació.
+  En cas contrari, familiar d’un potencial usuari (Antonio Garcia), afirma que la presència d’anuncis faria perdre seriositat al sistema i no és pertinent.
 
 
