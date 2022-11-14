@@ -59,4 +59,16 @@ Raonament: Hi ha dos perfils involucrats que divergeixen respecte la relació en
   Pel que fa al finançament, en aquest cas del CFO (Eduardo Gasch), es té present l’existència de publicitat a l’aplicació.
   En cas contrari, familiar d’un potencial usuari (Antonio Garcia), afirma que la presència d’anuncis faria perdre seriositat al sistema i no és pertinent.
 
+Cas 2
+Requisits:
+  A. "Crear una aplicació per a tablet Android per a la gent gran i una aplicació mòbil,
+  compatible tant amb smartphones iOS com Android per a la resta."  - Alejandra Popa
 
+  B. No hi hagués restriccions tecnològiques sobre l'aplicació, m'agradaria poder-la fer servir
+  en qualsevol dispositiu electrònic, ja sigui mòbil, PC, Mac o tablet." - Antonio Garcia
+
+Els dos requisits son requeriments de disseny de hardware, en el primer cas, només es vol desenvolupar
+una aplicacio per a la gent gran per Tablet Android i una aplicacio per movil per la resta d'usuaris,
+mentre que en el segon, vol que es desenvolupi una aplicació per a tots els dispositius, incloent ordinadors,
+Mac i apple. Estan en conflicte ja que una es més restrictiva que l'altre i pertant no es poden satisfer els dos
+requeriments.
