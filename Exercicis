@@ -4,7 +4,7 @@ Identificació: 001
 Requisit: “En estar tractant amb dades mèdiques és molt important que aquests siguin gestionats per professionals, per això es podrà assignar un metge 
   a cada usuari. Això implica que abans de començar a utilitzar aquestes funcionalitats, l'usuari haurà d'activar aquesta secció mitjançant un
   "registre mèdic”.”  - Carla Qurban, Directora Executiva
-Descripció: Les dades mèdiques de cada usuari només podran ser vistes per ells i gestionat pels professionals mèdics. 
+Descripció: Les dades mèdiques de cada usuari només podran ser gestionades pels professionals mèdics. 
 Tipus: Requisit No Funcional: Restriccions de disseny - Seguretat.
 Satkeholders: Professionals de la salut i Gent Gran
 
