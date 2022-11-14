@@ -6,7 +6,7 @@ Requisit: “En estar tractant amb dades mèdiques és molt important que aquest
   "registre mèdic”.”  - Carla Qurban, Directora Executiva
 Descripció: Les dades mèdiques de cada usuari només podran ser vistes per ells i gestionat pels professionals mèdics. 
 Tipus: Requisit No Funcional: Restriccions de disseny - Seguretat.
-Satkeholders: Professionals de la salut i usuaris
+Satkeholders: Professionals de la salut i Gent Gran
 
 Identificació: 002
 Requisit: “M’agradaria que no hi hagués restriccions tecnològiques sobre l'aplicació, m'agradaria poder-la fer servir en qualsevol dispositiu electrònic, 
@@ -14,7 +14,7 @@ Requisit: “M’agradaria que no hi hagués restriccions tecnològiques sobre l
 Descripció: L’aplicació ha de ser compatible amb sistemes operatius de mòbils/tablets (sistema android, ios, i d’altres), sistema amb Ordinadors 
   (Linux, Windows i OS). 
 Tipus: Requisit No Funcional: Restriccions de disseny - Limitacions Hardware.
-Satkeholders: Usuaris
+Satkeholders: Gent Gran i Familiars
 
 Identificació: 003
 Requisit: “Això també inclou que l'aplicació estigui preparada per a l'ús de persones amb diversitat funcional pròpia de gent gran, com a referència 
@@ -22,7 +22,7 @@ Requisit: “Això també inclou que l'aplicació estigui preparada per a l'ús 
 Descripció: L’aplicació ha de seguir els estàndards de disseny indicats per WCAG (Directrius d'Accessibilitat de Contingut del Web) amb l’objectiu de 
   ser accessible per a tots els potencials usuaris.
 Tipus: Requisit No Funcional: Restriccions de disseny - Acompliment d'Estàndards.
-Satkeholders: Usuaris
+Satkeholders: Usuaris 
 
 
 
