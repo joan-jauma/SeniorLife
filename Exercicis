@@ -1,5 +1,29 @@
 Problema 1
 
+Identificació: 001
+Requisit: “En estar tractant amb dades mèdiques és molt important que aquests siguin gestionats per professionals, per això es podrà assignar un metge 
+  a cada usuari. Això implica que abans de començar a utilitzar aquestes funcionalitats, l'usuari haurà d'activar aquesta secció mitjançant un
+  "registre mèdic”.”  - Carla Qurban, Directora Executiva
+Descripció: Les dades mèdiques de cada usuari només podran ser vistes per ells i gestionat pels professionals mèdics. 
+Tipus: Requisit No Funcional: Restriccions de disseny - Seguretat.
+Satkeholders: Professionals de la salut i usuaris
+
+Identificació: 002
+Requisit: “M’agradaria que no hi hagués restriccions tecnològiques sobre l'aplicació, m'agradaria poder-la fer servir en qualsevol dispositiu electrònic, 
+  ja sigui mòbil, PC, Mac o tablet. No vull gastar-me més diners en aparells.” - Antonio Garcia, familiar d'un usuari potencial
+Descripció: L’aplicació ha de ser compatible amb sistemes operatius de mòbils/tablets (sistema android, ios, i d’altres), sistema amb Ordinadors 
+  (Linux, Windows i OS). 
+Tipus: Requisit No Funcional: Restriccions de disseny - Limitacions Hardware.
+Satkeholders: Usuaris
+
+Identificació: 003
+Requisit: “Això també inclou que l'aplicació estigui preparada per a l'ús de persones amb diversitat funcional pròpia de gent gran, com a referència 
+  s'hauria de prendre les indicacions del WCAG per a dispositius mòbils.” - Carla Qurban, Directora Executiva
+Descripció: L’aplicació ha de seguir els estàndards de disseny indicats per WCAG (Directrius d'Accessibilitat de Contingut del Web) amb l’objectiu de 
+  ser accessible per a tots els potencials usuaris.
+Tipus: Requisit No Funcional: Restriccions de disseny - Acompliment d'Estàndards.
+Satkeholders: Usuaris
+
 
 
 Problema 2
