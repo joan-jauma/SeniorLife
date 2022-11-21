@@ -67,3 +67,27 @@ una aplicacio per a la gent gran per Tablet Android i una aplicacio per movil pe
 mentre que en el segon, vol que es desenvolupi una aplicació per a tots els dispositius, incloent ordinadors,
 Mac i apple. Estan en conflicte ja que una es més restrictiva que l'altre i pertant no es poden satisfer els dos
 requeriments.
+
+
+
+Problema 4
+
+Iniciar_video_trucada : Familiar/Persona gran
+
+Iniciar_xat: Familiar/Persona gran
+
+Comprovar_constants_vitals: Familiar/Persona gran/Metge
+
+Revisio_ perfil_medic: Metge
+
+Recordatori_medicacio: Persona gran
+
+Veure_condició_física:Familia/Persona gran/Metge
+
+Iniciar_sessió:Persona gran/Familiar/Metge
+
+Afegir_familiar: Persona gran
+
+Qüestionari_mèdic: Persona gran
+
+Desactivar_Funcions: Persona gran
