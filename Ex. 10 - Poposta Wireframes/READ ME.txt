@@ -1,0 +1,1 @@
+Els Wireframes s'han fet per a una tablet ja que considerem que serà el dispositiu més fàcil per els usuaris més grans.
